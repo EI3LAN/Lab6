@@ -1,16 +1,12 @@
-# flutter_application_5
+# Lab-6-Flutter-Kharchikov-PI1901
+### Харчиков Эрик ПИ1901
+### Задача – передать значение нажатой кнопки со второго экрана на первый и отобразить его во всплывающем уведомлении внизу первого экрана:
+### Первый экран:
+![Главный экран](https://github.com/armagedon42/Lab6/blob/main/Screenshots/101.jpg)
+![Второй экран](https://github.com/armagedon42/Lab6/blob/main/Screenshots/102.jpg)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### При нажатии на кнопку да, значение передается на первый экран в виде всплывающего уведомления.
+![Да]((https://github.com/armagedon42/Lab6/blob/main/Screenshots/103.jpg))
+### При нажатии на кнопку нет, значение передается на первый экран в виде всплывающего уведомления.
+![Нет]((https://github.com/armagedon42/Lab6/blob/main/Screenshots/104.jpg))
+![Main](https://github.com/armagedon42/Lab6/blob/main/lib/main.dart)
